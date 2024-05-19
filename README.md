@@ -1,1 +1,1 @@
-# House-Prices---Advanced-Regression-Techniques-Competition
+# House Prices-Advanced Regression Techniques Competition
